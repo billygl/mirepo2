@@ -25,4 +25,4 @@ Juan Pablo Duarte
 - Eduardo Reyes
 - Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
->>>>>>> 168225292e36b946082edb82afd14d40b3c1adbe
+- Jannire Trujillo 
