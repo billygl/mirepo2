@@ -53,5 +53,11 @@
 - Angel Ferroa
 =======
 - Eduardo Reyes
+<<<<<<< HEAD
 - Johan Oblitas
 - Juan Pablo Duarte
+=======
+- Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
+- Juan Pablo Duarte
+- Angel Ferroa 
+- Angel Ferroa https://github.com/billygl/mirepo2/blob/main/README.md
