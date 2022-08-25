@@ -8,6 +8,7 @@
 - Edgar Espinoza
 - Joaquin Teves
 - Eduardo Reyes
-- Johan Oblitas
+- Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
 - Diego Villalobos
+
