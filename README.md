@@ -39,6 +39,7 @@
 - jean pieer del pozo
 - Alexander Cruz 
 - Edgar Espinoza
+<<<<<<< HEAD
 - Joaquin Teves
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -48,6 +49,9 @@
 =======
 =======
 - Junior Huaman
+=======
+- Joaquin Teves https://github.com/JoacoTeves/MiRepo
+>>>>>>> 95e26ee75e91efa7f7084f4fe22f26d552a82c4b
 - Eduardo Reyes
 
 - Angel Ferroa
@@ -59,5 +63,5 @@
 =======
 - Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
-- Angel Ferroa 
+- Angel Ferroa Mejia
 - Angel Ferroa https://github.com/billygl/mirepo2/blob/main/README.md
