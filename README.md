@@ -10,3 +10,4 @@
 - Eduardo Reyes
 - Johan Oblitas
 - Juan Pablo Duarte
+- Diego Villalobos
