@@ -1,6 +1,4 @@
-- Billy Grados
+-   Bill Grados 
+-Junior Huaman
+-Edgar Espinoza
 
-
-
-
-- Joaquin Teves
