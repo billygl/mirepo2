@@ -8,4 +8,5 @@
 - Edgar Espinoza
 - Joaquin Teves
 - Eduardo Reyes
+- Johan Oblitas
 - Juan Pablo Duarte
