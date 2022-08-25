@@ -6,7 +6,7 @@
 - jean pieer del pozo
 - Alexander Cruz 
 - Edgar Espinoza
-- Joaquin Teves
+- Joaquin Teves https://github.com/JoacoTeves/MiRepo
 - Eduardo Reyes
 - Johan Oblitas
 - Juan Pablo Duarte
