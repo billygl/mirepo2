@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Billy Grados
 =======
 -   Bill Grados 
@@ -10,6 +11,13 @@
 =======
 -Edgar Espinoza
 >>>>>>> ed0cd6b6106cfcdbe8c3b9cffcea02498c7b52bd
+=======
+- Billy Grados 
+- Junior Huaman
+- Alonso Caceres
+- Edgar Espinoza
+- Joaquin Teves
+>>>>>>> 591f45b9a7f53aba3481f98d80daec5efe897105
 
 =======
 - Junior Huaman
