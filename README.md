@@ -2,7 +2,7 @@
 ----------------------
 - jean pieer del pozo
 - Junior Huaman
-- Alonso Caceres
+- Alonso Caceres https://github.com/AlonsoCGonzales/.dotfiles
 - jean pieer del pozo
 - Alexander Cruz 
 - Edgar Espinoza
