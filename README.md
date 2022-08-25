@@ -5,10 +5,8 @@
 - Alonso Caceres https://github.com/AlonsoCGonzales/.dotfiles
 - jean pieer del pozo
 - Alexander Cruz 
-- Edgar Espinoza
+- Edgar Espinoza https://github.com/edgarespnz/repositorio
 - Joaquin Teves https://github.com/JoacoTeves/MiRepo
 - Eduardo Reyes
 - Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
-- Diego Villalobos https://github.com/Asura2197/2022-2
-
