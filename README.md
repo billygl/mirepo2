@@ -2,13 +2,13 @@
 ----------------------
 - jean pieer del pozo
 - Junior Huaman
-- Alonso Caceres
+- Alonso Caceres https://github.com/AlonsoCGonzales/.dotfiles
 - jean pieer del pozo
 - Alexander Cruz 
 - Edgar Espinoza
-- Joaquin Teves
+- Joaquin Teves https://github.com/JoacoTeves/MiRepo
 - Eduardo Reyes
 - Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
-- Diego Villalobos
+- Diego Villalobos https://github.com/Asura2197/2022-2
 
