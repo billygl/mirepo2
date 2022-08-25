@@ -1,4 +1,6 @@
-- Billy Grados
-
+- Billy Grados 
 - Junior Huaman
-- ALonso Caceres
+- Alonso Caceres
+- Edgar Espinoza
+- Joaquin Teves
+
