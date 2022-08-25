@@ -35,7 +35,7 @@
 ----------------------
 - jean pieer del pozo
 - Junior Huaman
-- Alonso Caceres
+- Alonso Caceres https://github.com/AlonsoCGonzales/.dotfiles
 - jean pieer del pozo
 - Alexander Cruz 
 - Edgar Espinoza
@@ -63,5 +63,10 @@
 =======
 - Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
+<<<<<<< HEAD
 - Angel Ferroa Mejia
 - Angel Ferroa https://github.com/billygl/mirepo2/blob/main/README.md
+=======
+- Diego Villalobos https://github.com/Asura2197/2022-2
+
+>>>>>>> 6a852129ad7f476ede895f6553599663c2df39c7
