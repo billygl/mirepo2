@@ -8,5 +8,5 @@
 - Edgar Espinoza
 - Joaquin Teves https://github.com/JoacoTeves/MiRepo
 - Eduardo Reyes
-- Johan Oblitas
+- Johan Oblitas https://github.com/KoinuZero17/MiRepositorio
 - Juan Pablo Duarte
